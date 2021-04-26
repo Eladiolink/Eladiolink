@@ -1,4 +1,4 @@
- ## Keep Calm And Code On
+ ## Keep Calm and Code On
  #### Hey there! I'm Eládio Leal 👋
 
 
