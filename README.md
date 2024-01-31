@@ -3,8 +3,9 @@
 ## I'm Eládio, welcome to my Github Profile
 :dart: ( Java | Vue | Angular | MYSQL)
 
-<div id="about-me" style=" display: flex;align-items: center;width:100%;justify-content: space-between;margin-bottom: 20px;">
-    <ul style="margin-right:100px">
+<div id="about-me">
+    <ul>
+        <img align="right" width="533" height="300" src="./assets/progamming.gif" alt="Imagem">
         <li>:mortar_board: Computer Science student @<a href="https://portais.univasf.edu.br/ccicomp">Univasf</a></li>
         <li>:computer: Software Engineer</li>
         <li>:books: Academic Future</li>
@@ -25,8 +26,11 @@
             </a>
         </li>
     </ul>
-    <img class="image" src="./assets/progamming.gif" alt="Imagem" style=" max-width: 533px;max-height: 300px;">
 </div>
+
+<br/>
+<br/>
+<br/>
 
 <div id="github-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=eladiolink&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff">
@@ -43,22 +47,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ![Snake animation](https://github.com/Eladiolink/Eladiolink/blob/output/github-contribution-grid-snake-dark.svg)
-
-
-#github-stats{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    margin-bottom: 20px;
-}
-
-li a{
-    text-decoration:none;
-}
-
-@media (max-width: 700px) {
-   #about-me{
-        flex-direction:column;
-        align-items: start
-    }
-}
