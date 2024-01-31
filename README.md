@@ -1,14 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Seu Projeto</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+# Hey There! 👋
 
-</head>
-<body>
-    <div id="about-me">
+## I'm Eládio, welcome to my Github Profile
+:dart: ( Java | Vue | Angular | MYSQL)
+
+<div id="about-me" style=" display: flex;align-items: center;width:100%;justify-content: space-between;margin-bottom: 20px;">
     <ul style="margin-right:100px">
         <li>:mortar_board: Computer Science student @<a href="https://portais.univasf.edu.br/ccicomp">Univasf</a></li>
         <li>:computer: Software Engineer</li>
@@ -30,7 +25,7 @@
             </a>
         </li>
     </ul>
-    <img class="image" src="./assets/progamming.gif" alt="Imagem">
+    <img class="image" src="./assets/progamming.gif" alt="Imagem" style=" max-width: 533px;max-height: 300px;">
 </div>
 
 <div id="github-stats">
@@ -38,11 +33,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eladiolink&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=4&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff">
 </div>
 
-</body>
-</html>
-
-
-<!-- ### My interests
+### My interests
 ![Java](https://img.shields.io/badge/java-ff0000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -51,5 +42,23 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![Snake animation](https://github.com/Eladiolink/Eladiolink/blob/output/github-contribution-grid-snake-dark.svg) -->
-<!--
+![Snake animation](https://github.com/Eladiolink/Eladiolink/blob/output/github-contribution-grid-snake-dark.svg)
+
+
+#github-stats{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+li a{
+    text-decoration:none;
+}
+
+@media (max-width: 700px) {
+   #about-me{
+        flex-direction:column;
+        align-items: start
+    }
+}
