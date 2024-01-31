@@ -14,13 +14,13 @@
         <li>📫 How to reach me: <br/>
             <a href="https://www.linkedin.com/in/eladio-leal-alves-642779182/">
                 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=%23FFF&labelColor=%23663399&color=%23663399" />
-            </a>
+            </a><br/>
             <a href="https://www.instagram.com/eladio_leal.java/">
                 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=%23FFF&labelColor=%23663399&color=%23663399" />
-            </a>
+            </a><br/>
             <a href="https://twitter.com/Sr_Rico1">
                 <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FSr_Rico1&style=for-the-badge&logo=X&logoColor=%23FFF&labelColor=%23663399&color=%23663399" />
-            </a>
+            </a><br/>
             <a href="https://http.cat/404">
                 <img src="https://img.shields.io/badge/my website-000?style=for-the-badge&logoColor=%23FFF&labelColor=%23663399&color=%23663399" />
             </a>
@@ -28,8 +28,6 @@
     </ul>
 </div>
 
-<br/>
-<br/>
 <br/>
 
 <div id="github-stats">
