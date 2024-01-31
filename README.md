@@ -12,7 +12,8 @@
         <li>:bar_chart: Love Math & Computing</li>
         <li>🔭  I’m currently learning Angular and Java Workflow</li>
         <li>📫 How to reach me: <br/>
-            <a href="https://www.linkedin.com/in/eladio-leal-alves-642779182/">
+            [![Texto Alternativo]("https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=%23FFF&labelColor=%23663399&color=%23663399")]("https://www.linkedin.com/in/eladio-leal-alves-642779182/")
+            <a href="">
                 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=%23FFF&labelColor=%23663399&color=%23663399" />
             </a>
             <a href="https://www.instagram.com/eladio_leal.java/">
