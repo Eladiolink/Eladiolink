@@ -1,9 +1,14 @@
-<!-- # Hey There! 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seu Projeto</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
 
-## I'm Eládio, welcome to my Github Profile
-:dart: ( Java | Vue | Angular | MYSQL)
- -->
-<div id="about-me">
+</head>
+<body>
+    <div id="about-me">
     <ul style="margin-right:100px">
         <li>:mortar_board: Computer Science student @<a href="https://portais.univasf.edu.br/ccicomp">Univasf</a></li>
         <li>:computer: Software Engineer</li>
@@ -33,6 +38,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eladiolink&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=4&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff">
 </div>
 
+</body>
+</html>
+
+
 <!-- ### My interests
 ![Java](https://img.shields.io/badge/java-ff0000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -44,51 +53,3 @@
 
 ![Snake animation](https://github.com/Eladiolink/Eladiolink/blob/output/github-contribution-grid-snake-dark.svg) -->
 <!--
-**Eladiolink/Eladiolink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<style>
-
-#about-me{
-    display: flex; 
-    align-items: center;
-    width:100%;
-    justify-content: space-between;
-    margin-bottom: 20px;
-}
-
-#github-stats{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    margin-bottom: 20px;
-}
-
-li a{
-    text-decoration:none;
-}
-
-.image{
-    max-width: 533px; 
-    max-height: 300px;
-}
-
-@media (max-width: 700px) {
-   #about-me{
-        flex-direction:column;
-        align-items: start
-    }
-}
-
-</style>
