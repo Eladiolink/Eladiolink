@@ -1,9 +1,9 @@
 # Hey There! 👋
 
 ## I'm Eládio, welcome to my Github Profile
-:dart: ( Java | Spring-boot | Vue | Angular | MYSQL)
+:dart: ( Java | Spring-boot| Vue | Angular | MYSQL)
 
-<div id="about-me">
+<div id="about-me" style="display: flex; align-items: center; width:100%; justify-content: space-between; margin-bottom: 20px;">
     <ul style="margin-right:100px">
         <li>:mortar_board: Computer Science student @<a href="https://portais.univasf.edu.br/ccicomp">Univasf</a></li>
         <li>:computer: Software Engineer</li>
@@ -11,24 +11,24 @@
         <li>:bar_chart: Love Math & Computing</li>
         <li>🔭  I’m currently learning Angular and Java Workflow</li>
         <li>📫 How to reach me: <br/>
-            <a href="https://www.linkedin.com/in/eladio-leal-alves-642779182/">
+            <a href="https://www.linkedin.com/in/eladio-leal-alves-642779182/" style="text-decoration: none">
                 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=%23FFF&labelColor=%23663399&color=%23663399" />
             </a>
-            <a href="https://www.instagram.com/eladio_leal.java/">
+            <a href="https://www.instagram.com/eladio_leal.java/" style="text-decoration: none">
                 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=%23FFF&labelColor=%23663399&color=%23663399" />
             </a>
-            <a href="https://twitter.com/Sr_Rico1">
+            <a href="https://twitter.com/Sr_Rico1" style="text-decoration: none">
                 <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FSr_Rico1&style=for-the-badge&logo=X&logoColor=%23FFF&labelColor=%23663399&color=%23663399" />
             </a>
-            <a href="https://http.cat/404">
+            <a href="https://http.cat/404" style="text-decoration: none">
                 <img src="https://img.shields.io/badge/my website-000?style=for-the-badge&logoColor=%23FFF&labelColor=%23663399&color=%23663399" />
             </a>
         </li>
     </ul>
-    <img class="image" src="./assets/progamming.gif" alt="Imagem">
+    <img class="image" src="./assets/progamming.gif" alt="Imagem" style="max-width: 533px; max-height: 300px;">
 </div>
 
-<div id="github-stats">
+<div id="github-stats" style="display: flex; align-items: center; justify-content: space-around; margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=eladiolink&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eladiolink&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=4&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff">
 </div>
@@ -60,30 +60,6 @@ Here are some ideas to get you started:
 
 
 <style>
-
-#about-me{
-    display: flex; 
-    align-items: center;
-    width:100%;
-    justify-content: space-between;
-    margin-bottom: 20px;
-}
-
-#github-stats{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    margin-bottom: 20px;
-}
-
-li a{
-    text-decoration:none;
-}
-
-.image{
-    max-width: 533px; 
-    max-height: 300px;
-}
 
 @media (max-width: 700px) {
    #about-me{
