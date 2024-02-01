@@ -12,24 +12,21 @@
         <li>:bar_chart: Love Math & Computing</li>
         <li>🔭  I’m currently learning Angular and Java Workflow</li>
         <li>📫 How to reach me: <br/>
-            <a href="https://www.linkedin.com/in/eladio-leal-alves-642779182/">
-                <img src="https://img.shields.io/badge/linkedin-6c46c5?style=for-the-badge&logo=linkedin&logoColor=white" />
-            </a>
             <a href="https://www.instagram.com/eladio_leal.java/">
                 <img src="https://img.shields.io/badge/Instagram-654acb?style=for-the-badge&logo=instagram&logoColor=white" />
-            </a>
+            </a><br/>
+            <a href="https://www.linkedin.com/in/eladio-leal-alves-642779182/">
+                <img src="https://img.shields.io/badge/linkedin-6c46c5?style=for-the-badge&logo=linkedin&logoColor=white" />
+            </a><br/>
             <a href="https://twitter.com/Sr_Rico1">
                 <img src="https://img.shields.io/badge/Tweet-5d4ed0?style=for-the-badge&logo=X&logoColor=white" />
-            </a>
+            </a><br/>
             <a href="https://http.cat/404">
-                <img src="https://img.shields.io/badge/my%20website-5652d6?style=for-the-badge&logo=earth&logoColor=white" />
+                <img src="https://img.shields.io/badge/website-5652d6?style=for-the-badge&logo=earth&logoColor=white" />
             </a>
         </li>
     </ul>
 </div>
-
-<br/>
-<br/>
 
 <div id="github-stats">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=eladiolink&hide_border=true&show_icons=true&card_width=320&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff"> 
